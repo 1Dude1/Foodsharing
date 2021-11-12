@@ -6,4 +6,5 @@
     $password = stripcslashes($password);
     $username = mysql_real($username);
     $password = stripcslashes($password);
+    
 ?>
